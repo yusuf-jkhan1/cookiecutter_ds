@@ -1,0 +1,1 @@
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "& '.\hook_utils\post_gen_project.ps1'"
