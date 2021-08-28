@@ -1,1 +1,1 @@
-Powershell.exe -executionpolicy remotesigned -File  .\hooks\hook_utils\post_gen_project.ps1
+Powershell.exe -executionpolicy remotesigned -File  ..\hooks\hook_utils\post_gen_project.ps1
