@@ -1,1 +1,1 @@
-New-Item -Path . -ItemType File "example.txt"
+New-Item "example.txt"
