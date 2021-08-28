@@ -1,1 +1,3 @@
-Powershell.exe -executionpolicy remotesigned Set-Location .. ; -File hooks\hook_utils\post_gen_project.ps1
+SETLOCAL
+SET PATH = ".."
+Powershell.exe -executionpolicy remotesigned Get-Location
